@@ -10,3 +10,29 @@
     background: #2c3e50;
 }
 
+.nav-link a{
+    text-transform: uppercase;
+}
+
+#navbarNav a.nav-link{
+    color: white;
+}
+
+#navbarNav a.nav-link:hover{
+    color: #1abc9c;
+}
+
+/* main */
+
+.logo-hero{
+    max-width: 15%;
+}
+
+.odd{
+    color: white;
+}
+
+.star-line{
+    width: 10%;
+    border-bottom: 2px solid white
+}
