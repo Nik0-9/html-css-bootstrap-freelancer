@@ -64,18 +64,6 @@ main i{
     cursor: pointer;
 }
 
-
-/* .card:after{
-    content: '\f055';
-    opacity: 0;
-    color: #1abc9c;
-}
-
-.card:hover:after{
-    cursor: pointer;
-    opacity: 0.5;
-} */
-
 .card-bg:hover{
     opacity: 0.5;
 }
