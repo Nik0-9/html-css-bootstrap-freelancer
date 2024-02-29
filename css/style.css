@@ -104,7 +104,9 @@ main i{
     width: 40px;
     border-radius: 50%;
     border: 1px solid white;
-    line-height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer-bottom{
