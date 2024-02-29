@@ -87,6 +87,13 @@ main i{
     width: 100%;
 }
 
+.nf-form-control{
+    height: 100px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
 /* footer */
 .footer-top{
     background: #3a546d;
